@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+*.sqlite
+*.db
+.env
+rust_book_cache/
